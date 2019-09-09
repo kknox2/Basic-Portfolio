@@ -1,0 +1,35 @@
+header {
+    width: 100%;
+    background-color: antiquewhite;
+    height: 100px;
+}
+body {
+    background-color: darkgray;
+    margin: 0;
+    padding: 0;
+}
+#headerSpacer {
+    width: 960px;
+    background-color: inherit;
+    margin: 0 auto;
+    height: 100%;
+}
+
+#navLinks {
+    float: right;
+    margin: auto;
+    height: 100%;
+    line-height: 100px;
+}
+#namePlate {
+    float: left;
+    background-color: aqua;
+    width: 250px;
+    height: 100%;
+}
+a {
+    text-decoration: none;
+    color: crimson;
+}
+
+   
